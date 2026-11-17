@@ -1,0 +1,14 @@
+# Build output: build it yourself with build.bat
+*.exe
+*.pdb
+bin/
+obj/
+
+# Never commit personal settings, memories or API keys
+settings.ini
+memories.txt
+lab.txt
+scores.txt
+*.log
+.env
+*.key
