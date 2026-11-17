@@ -5,6 +5,11 @@ He has his own little house, walks and does parkour around your screen, talks, h
 plays games, and does things on your PC.
 
 ## Get it running (Windows 10 / 11)
+**Easiest:** download **StickBuddy.exe** from the
+[latest release](https://github.com/tupraq/StickBuddy/releases/latest) and double-click it.
+Windows may say "Windows protected your PC" because the app isn't signed: click **More info**, then **Run anyway**.
+
+**Or build it yourself:**
 1. Download this project (green **Code** button > **Download ZIP**) and unzip it.
 2. Double-click **build.bat**. It uses the C# compiler that already comes with Windows,
    so you don't need to install anything. It makes **StickBuddy.exe**.
